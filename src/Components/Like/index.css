@@ -1,0 +1,10 @@
+.like {
+    display: flex;
+    justify-content: start;
+    align-items: center;
+    margin-right: 10px;
+}
+
+.like__heart {
+    margin-right: 10px;
+}

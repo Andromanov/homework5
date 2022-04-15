@@ -1,0 +1,9 @@
+.header-button {
+    display: flex;
+    justify-content: end;
+    margin-bottom: 25px;
+}
+
+.ant-layout {
+    background: none;
+}

@@ -1,0 +1,17 @@
+.card__avatar-box {
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px;
+}
+
+.card__avatar {
+    margin-right: 20px;
+}
+
+.card__tag-box {
+    margin-bottom: 20px;
+}
+
+.card__tag-box span {
+    margin-right: 5px;
+}

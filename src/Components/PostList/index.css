@@ -1,0 +1,9 @@
+.postlist {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+
+.postlist > div {
+    margin-bottom: 30px;
+}

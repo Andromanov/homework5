@@ -1,0 +1,12 @@
+@import "~normalize-css";
+
+.wrap {
+    width: 80%;
+    margin: 0 auto;
+}
+
+.spinner {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
